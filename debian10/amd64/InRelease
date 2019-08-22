@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: buster
+Components: main
+Date: Thu, 22 Aug 2019 16:12:10 +0000
+Description: NVIDIA Docker Engine wrapper repository
+Label: NVIDIA CORPORATION <cudatools@nvidia.com>
+Origin: https://nvidia.github.io/nvidia-docker
+Suite: buster
+Version: 1.0
+SHA512:
+ 31ed5442ff082485484f12088c11db2aee9b0f72ba4fad7fccb0e2bf61eb1bf1919c4aacf513b1c7526cb82f9d9b71fb36c537e1e6ec22fbcb853f19d365acaf              913 Packages
+ 54c5102d55b98278c13909292892a5ce5a6348b2ab5c5ac03824e52385cdebe672d70fd630bcd89165ebb65a16ec91cbdf19e34bb93f7c92356f1138ce89e1a1              632 Packages.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEiLH4d5Jo/+sbd9/gxFsWdqBOpVIFAl1fIbwACgkQxFsWdqBO
+pVINpAgAnXX6jQ81ajy60mtB9PQccoK525p+bW/VR7O7Zt4rnz45O3bNhm3YYYZi
+ihTyfgPA6TNifRclC1MNmfsQYA99fFM0DTLwIUrljpsiBYWT68oLeb9b4Myk4VpE
+msmZbu4sNUmbNpg6hqkXxLtr8KFTv6a+RV6aTm4ye100Wwe1OmBWiQTdpOeEbmlS
+5S7UpzykPCzSCUadp9O1zOl9beuPHfF+NMtBUsYs0EUyTO618NWZV9pxZArLCHh7
+jWo/qaAexSUipjQVW4VgP6DD1FQw0DfnIxo6/tJiiC+AveXvSmaV0pW0VjiJAB3/
+PmoU510nWnD/jLioo37wigmPn08AnQ==
+=X/CV
+-----END PGP SIGNATURE-----

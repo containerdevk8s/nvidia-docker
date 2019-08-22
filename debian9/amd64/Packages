@@ -703,10 +703,10 @@ Breaks: nvidia-docker (<< 2.0.0)
 Replaces: nvidia-docker (<< 2.0.0)
 Filename: ./nvidia-docker2_2.2.0-1_all.deb
 Size: 2870
-MD5sum: 640f08e015eb364285642e182a070410
-SHA1: 176b5172685a04ebcb95140f2ce94145b464e377
-SHA256: c96c3babed2c3df7513fc9ce8c6b43229f6b23c2023a75579ef2f4f03e76b90e
-SHA512: 47fe98dbc9d6fff3cd2d776cbde1c379c4049ddb117e451ed7fe9562aa942146be86aea82c403f9b4e4c64237c414bc69866beb3cdf09468fa4e19c25f75ee9e
+MD5sum: 6b9faa49e92e5ff6722d1c68a7fca168
+SHA1: 8746dd153777fa816b8def18ad7a5a22fba8fbac
+SHA256: 818062092094ec729aa137f7aa746bf3266692273a041c3770bb9a625bd21e23
+SHA512: f3f2f8326b6d9a8f4f502f1715ce2adfac89659cff703f8fe1187981da7c193d32a31b0335b7c9e756530a83efc874c5b6c29a8c67e0db4315e06aee193a61c2
 Homepage: https://github.com/NVIDIA/nvidia-docker/wiki
 Description: nvidia-docker CLI wrapper
  Replaces nvidia-docker with a new implementation based on
